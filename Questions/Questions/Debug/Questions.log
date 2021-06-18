@@ -1,0 +1,16 @@
+﻿  Questions.cpp
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(24,7): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(24,4): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(25,7): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(25,4): warning C4552: "!=": результат выражения не используется
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(26,2): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(26,4): warning C4552: "<": результат выражения не используется
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(27,2): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(27,4): warning C4552: "<=": результат выражения не используется
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(28,2): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(28,4): warning C4552: ">": результат выражения не используется
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(29,2): warning C4804: >=: небезопасное использование типа "bool" в операции
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(29,4): warning C4552: ">=": результат выражения не используется
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(14,11): warning C4101: a2: неиспользованная локальная переменная
+C:\Users\Пользователь\source\repos\Questions\Questions\Questions.cpp(13,12): warning C4101: a1: неиспользованная локальная переменная
+  Questions.vcxproj -> C:\Users\Пользователь\source\repos\Questions\Debug\Questions.exe
