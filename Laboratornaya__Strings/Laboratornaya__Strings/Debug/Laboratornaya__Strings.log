@@ -1,0 +1,3 @@
+﻿  Laboratornaya__Strings.cpp
+C:\Users\Пользователь\source\repos\Laboratornaya__Strings\Laboratornaya__Strings\Laboratornaya__Strings.cpp(19,14): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+  Laboratornaya__Strings.vcxproj -> C:\Users\Пользователь\source\repos\Laboratornaya__Strings\Debug\Laboratornaya__Strings.exe
